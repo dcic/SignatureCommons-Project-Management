@@ -1,7 +1,4 @@
 # SignatureCommons-Project-Management
-#
-#Central project management repository for Team Nitrogen.
-#
 #Introduction and Quickstart
 #Communications and coordination are critical to the development of the Signature Commons.
 #
