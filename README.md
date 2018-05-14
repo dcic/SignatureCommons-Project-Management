@@ -12,4 +12,4 @@ Slack for group chat; you will need to sign up, and then subscribe to channels o
 Workspace:  dcic.slack.com
 If you have an @mssm.edu, @med.miami.edu, @ucmail.uc.edu, or @mail.uc.edu email address, you can create an account.
 
-[Collaborative google folder drive] (https://drive.google.com/drive/u/0/folders/1TcZ5HZp1u2zyDGuOc14lxlhWbncjPh47)
+[Collaborative google folder drive](https://drive.google.com/drive/u/0/folders/1TcZ5HZp1u2zyDGuOc14lxlhWbncjPh47)
